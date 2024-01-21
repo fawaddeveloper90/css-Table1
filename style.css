@@ -1,0 +1,30 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:large;
+}
+
+.head1{
+    background-color: rgb(22, 224, 224);
+}
+
+
+
+.head{
+    background-color: rgb(22, 224, 224);
+    text-align: center;
+}
+
+.data1{
+    text-align: center;
+}
+
+.data2a{
+    background-color: rgb(211, 206, 206);
+}
+
+.data2{
+    background-color: rgb(211, 206, 206);
+    text-align: center;
+    border-top: 2px solid  rgb(48, 252, 252);
+    border-bottom: 2px solid  rgb(48, 252, 252);
+}
